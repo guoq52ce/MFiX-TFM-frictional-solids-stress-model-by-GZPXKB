@@ -13,4 +13,4 @@ To use this model, the keyword "friction_model" in the mfx case file should be s
 
 We encourage all to test our new model in their TFM modeling projects. If you find this model is useful for your research, please cite the following paper:
 
-Guo, Q., Zhang, Y., Padash, A., Xi, K., Kovar, T., & Boyce, C. M. (2021). Dynamically Structured Bubbling in Vibrated Gas-Fluidized Granular Materials. PNAS. In press.
+Guo, Q., Zhang, Y., Padash, A., Xi, K., Kovar, T. M., & Boyce, C. M. (2021). Dynamically structured bubbling in vibrated gas-fluidized granular materials. Proceedings of the National Academy of Sciences, 118 (35). https://doi.org/10.1073/pnas.2108647118
